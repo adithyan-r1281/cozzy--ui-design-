@@ -1,0 +1,35 @@
+.nav-item{
+    margin-left: 2rem;
+    /* margin-right: 2rem; */
+}
+/* .navbar{
+    position: fixed;
+    top: 0;
+} */
+
+.page2{
+    text-align: center;
+    background-color: #E4D9CD;
+    padding-top: 5%;
+}
+.navbar{
+    font-family: 'Lora', serif;
+    font-weight: 650;
+}
+
+.col-6 h1{
+    font-family: 'Yeseva One', cursive;
+}
+.col-6 p{
+    font-family: 'Noto Serif JP', serif;    font-size: large;
+    color: #29241E;;
+}
+
+.page2 h1,h2{
+    font-family: 'Yeseva One', cursive;
+
+}
+
+.col-6 button{
+    margin-top: 25px;
+}
